@@ -4,9 +4,13 @@
 
 ### 2019年
 
+- [ ] 心灵的未来
+
 - [ ] soft skills the software developer's life manual
  
 - [ ] 深入理解计算机系统
+
 - [ ] 百年孤独
+
 - [ ] 数学之美
 
