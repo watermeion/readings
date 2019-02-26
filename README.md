@@ -6,7 +6,7 @@
 
 - [ ] 见识 - 吴军
 
-- [ ] 心灵的未来
+- [ ] 心灵的未来    
 
 - [ ] soft skills the software developer's life manual
  
@@ -15,6 +15,8 @@
 - [ ] 百年孤独
 
 - [ ] 数学之美
+
+- [ ] 技术的本质 - Brian Arthur
 
 
 ### read list
