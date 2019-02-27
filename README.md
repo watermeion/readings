@@ -4,7 +4,7 @@
 
 ### 2019年
 
-- [ ] 见识 - 吴军   ![process](http://progressed.io/bar/15)
+- [ ] 见识 - 吴军   ![process](http://progressed.io/bar/30)
 
 - [ ] 心灵的未来    ![process](http://progressed.io/bar/60)
 
