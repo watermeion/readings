@@ -6,7 +6,7 @@
 
 - [ ] 态度 - 吴军 ![process](http://progressed.io/bar/17)
 
-- [ ] 数学之美
+- [ ] 数学之美 - 吴军
 
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 
