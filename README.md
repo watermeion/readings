@@ -4,9 +4,11 @@
 
 ### 2019年
 
-- [ ] 见识 - 吴军   ![process](http://progressed.io/bar/30)
+- [ ] 态度 - 吴军 ![process](http://progressed.io/bar/17)
 
-- [ ] 心灵的未来    ![process](http://progressed.io/bar/60)
+- [ ] 数学之美
+
+- [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 
 - [ ] soft skills the software developer's life manual
  
@@ -14,12 +16,12 @@
 
 - [ ] 百年孤独
 
-- [ ] 数学之美
-
 - [ ] 技术的本质 - Brian Arthur
 
 
-### read list
+### finish list
 
 
 - [x] 刘墉 人生不过爱一场
+
+- [x] 见识 - 吴军   ![process](http://progressed.io/bar/100)
