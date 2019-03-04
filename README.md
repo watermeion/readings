@@ -22,6 +22,6 @@
 ### finish list
 
 
-- [x] 刘墉 人生不过爱一场
+- [x] 刘墉 人生不过爱一场  ![process](http://progressed.io/bar/100)
 
 - [x] 见识 - 吴军   ![process](http://progressed.io/bar/100)
