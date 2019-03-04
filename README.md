@@ -11,8 +11,8 @@
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 
 - [ ] soft skills the software developer's life manual
- 
-- [ ] 深入理解计算机系统
+  
+- [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/5)
 
 - [ ] 百年孤独
 
