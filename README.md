@@ -12,7 +12,7 @@
 
 - [ ] soft skills the software developer's life manual
   
-- [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/5)
+- [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/7)
 
 - [ ] 百年孤独
 
