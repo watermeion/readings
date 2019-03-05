@@ -4,7 +4,7 @@
 
 ### 2019年
 
-- [ ] 态度 - 吴军 ![process](http://progressed.io/bar/17)
+- [ ] 态度 - 吴军 ![process](http://progressed.io/bar/34)
 
 - [ ] 数学之美 - 吴军
 
