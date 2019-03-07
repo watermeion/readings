@@ -1,5 +1,5 @@
 
-
+Work Path
 
 # coding ability
 
@@ -14,6 +14,8 @@
 - [ ] Grokking the System Design Interview - Educative.io
 
 - [ ] 计算系统设计导论
+
+- [ ] https://soulmachine.gitbooks.io/system-design/content/cn/
 
 # project experience
 
