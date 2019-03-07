@@ -11,6 +11,8 @@
   
 - [ ] soft skills the software developer's life manual
 
+- [ ] Principles of Computer System Design
+
 - [ ] 500 Lines or Less
 
 - [ ] 百年孤独
