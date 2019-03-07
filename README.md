@@ -11,6 +11,8 @@
   
 - [ ] soft skills the software developer's life manual
 
+- [ ] 500 Lines or Less
+
 - [ ] 百年孤独
 
 - [ ] 技术的本质 - Brian Arthur
