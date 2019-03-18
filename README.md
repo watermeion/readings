@@ -2,7 +2,7 @@
 
 ### 2019年
 
-- [ ] 人类群星闪耀时 - 茨威格 ![process](http://progressed.io/bar/30)
+- [ ] 人类群星闪耀时 - 茨威格 ![process](http://progressed.io/bar/65)
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
 - [ ] 数学之美 - 吴军
