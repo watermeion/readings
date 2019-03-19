@@ -6,6 +6,6 @@
 
 ### 完成的问题：
 
-Q1 ： [989](https://leetcode.com/problems/add-to-array-form-of-integer/). Add to Array-Form of Integer     40mins
+[989](https://leetcode.com/problems/add-to-array-form-of-integer/). Add to Array-Form of Integer     40mins
 
-Q2: 	[415](https://leetcode.com/problems/add-strings/). Add two Number  in String.    50mins
+[415](https://leetcode.com/problems/add-strings/). Add two Number  in String.    50mins
