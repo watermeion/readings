@@ -2,14 +2,20 @@
 
 ### 2019年
 
-- [ ] soft skills the software developer's life manual
-- [ ] 必然 - K.K 
+- [ ] 人生的枷锁  毛姆
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
-- [ ] 数学之美 - 吴军
-  
+
 ### wanted list 
   
+- [ ] 数学之美 - 吴军
+
+- [ ] 浪潮之巅 - 吴军
+
+- [ ] soft skills the software developer's life manual
+
+- [ ] 必然 - K.K 
+
 - [ ] Principles of Computer System Design
 
 - [ ] 500 Lines or Less
