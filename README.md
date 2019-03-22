@@ -2,7 +2,7 @@
 
 ### 2019年
 
-- [ ] 自卑与超越  阿尔费雷德·阿德勒 (http://progressed.io/bar/60)
+- [ ] 自卑与超越  阿尔费雷德·阿德勒 ![process](http://progressed.io/bar/60)
 - [ ] 人生的枷锁  毛姆
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
