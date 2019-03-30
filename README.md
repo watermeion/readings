@@ -1,11 +1,10 @@
 记录我的阅读历程
 
 ### 2019年
-
-- [ ] 自卑与超越  阿尔费雷德·阿德勒 ![process](http://progressed.io/bar/70)
-- [ ] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/7)
+- [ ] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/15)
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
+- [ ] 必然 - K.K 
 
 ### wanted list 
   
@@ -14,8 +13,6 @@
 - [ ] 浪潮之巅 - 吴军
 
 - [ ] soft skills the software developer's life manual
-
-- [ ] 必然 - K.K 
 
 - [ ] Principles of Computer System Design
 
@@ -34,3 +31,5 @@
 - [x] 见识 - 吴军   
 
 - [x] 态度 - 吴军
+
+- [x] 自卑与超越  阿尔费雷德·阿德勒 
