@@ -4,9 +4,13 @@
 - [ ] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/15)
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
-- [ ] 必然 - K.K 
+- [ ] 社会动物
 
 ### wanted list 
+
+- [ ] 必然 - K.K 
+
+- [ ] 自私的基因
   
 - [ ]《卡拉马佐夫兄弟》
 
