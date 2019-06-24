@@ -1,10 +1,11 @@
 记录我的阅读历程
 
 ### 2019年
-- [ ] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/15)
+- [ ] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/45)
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
 - [ ] 社会动物
+- [ ] 明朝那些事 2 ![process](http://progressed.io/bar/80) 
 
 ### wanted list 
 
