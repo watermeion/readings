@@ -5,7 +5,7 @@
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
 - [ ] 社会动物
-- [ ] 明朝那些事 2 ![process](http://progressed.io/bar/80) 
+- [ ] 人生的智慧  叔本华 ![process](http://progressed.io/bar/1)
 
 ### wanted list 
 
@@ -40,3 +40,5 @@
 - [x] 态度 - 吴军
 
 - [x] 自卑与超越  阿尔费雷德·阿德勒 
+
+- [x] 明朝那些事儿 当年明月  1-5
