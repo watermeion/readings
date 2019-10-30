@@ -1,11 +1,11 @@
 记录我的阅读历程
 
 ### 2019年
-- [ ] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/45)
+- [x] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/75)
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
 - [ ] 社会动物
-- [ ] 人生的智慧  叔本华 ![process](http://progressed.io/bar/1)
+
 
 ### wanted list 
 
@@ -41,4 +41,6 @@
 
 - [x] 自卑与超越  阿尔费雷德·阿德勒 
 
-- [x] 明朝那些事儿 当年明月  1-5
+- [x] 明朝那些事儿 当年明月  1-8
+
+- [X] 人生的智慧  叔本华 
