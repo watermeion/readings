@@ -1,9 +1,9 @@
 记录我的阅读历程
 
 ### 2019年
-- [ ] 斯通纳 stoner ![process](http://progressed.io/bar/0) 
-- [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
-- [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
+- [ ] 斯通纳 stoner  ![process](http://progressed.io/bar/10) 
+- [ ] 心灵的未来     ![process](http://progressed.io/bar/60)
+- [ ] 深入理解计算机系统   ![process](http://progressed.io/bar/11) 
 - [ ] 社会动物
 
 
