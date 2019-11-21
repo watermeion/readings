@@ -1,10 +1,11 @@
 记录我的阅读历程
 
 ### 2019年
-- [x] 人生的枷锁  毛姆 ![process](http://progressed.io/bar/75)
+- [ ] 斯通纳 stoner ![process](http://progressed.io/bar/0) 
 - [ ] 心灵的未来  ![process](http://progressed.io/bar/60)
 - [ ] 深入理解计算机系统  ![process](http://progressed.io/bar/11) 
 - [ ] 社会动物
+
 
 
 ### wanted list 
@@ -44,3 +45,4 @@
 - [x] 明朝那些事儿 当年明月  1-8
 
 - [X] 人生的智慧  叔本华 
+- [x] 人生的枷锁  毛姆
